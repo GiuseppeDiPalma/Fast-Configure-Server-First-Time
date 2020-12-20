@@ -6,6 +6,7 @@ Uno script utile per configurare rapidamente un server al primo uso.
 
 - Sicurezza;
 - Rapidità;
+- No software aggiuntivi;
 - Non costituire intralcio a lavori futuri sul server.
 
 ## Task utili
@@ -32,5 +33,5 @@ Un semplice bash che configura un server(Ubuntu|CentOS|OracleLinux) al primo avv
 ### Come eseguire
 
 ```bash
-https://raw.githubusercontent.com/GiuseppeDiPalma/Fast-Configure-Server-First-Time/main/configure.sh | sh
+https://raw.githubusercontent.com/GiuseppeDiPalma/Fast-Configure-Server-First-Time/main/configure.sh | bash
 ```
