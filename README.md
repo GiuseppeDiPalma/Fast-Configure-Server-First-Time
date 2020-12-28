@@ -1,3 +1,5 @@
+https://img.shields.io/github/license/GiuseppeDiPalma/Fast-Configure-Server-First-Time?style=plastic
+
 # [FCSFT]Fast configure server first time
 
 Uno script utile per configurare rapidamente un server al primo uso.
