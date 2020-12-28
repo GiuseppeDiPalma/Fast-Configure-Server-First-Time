@@ -1,5 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/GiuseppeDiPalma/Fast-Configure-Server-First-Time?style=plastic)](https://github.com/GiuseppeDiPalma/Fast-Configure-Server-First-Time/blob/main/LICENSE)
-
+[![GitHub license](https://img.shields.io/github/license/GiuseppeDiPalma/Fast-Configure-Server-First-Time?style=plastic)](https://github.com/GiuseppeDiPalma/Fast-Configure-Server-First-Time/blob/main/LICENSE)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GiuseppeDiPalma/Fast-Configure-Server-First-Time)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GiuseppeDiPalma/Fast-Configure-Server-First-Time)
 # [FCSFT]Fast configure server first time
 
 Uno script utile per configurare rapidamente un server al primo uso.
