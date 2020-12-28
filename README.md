@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/GiuseppeDiPalma/Fast-Configure-Server-First-Time?style=plastic
+[![GitHub license](https://img.shields.io/github/license/GiuseppeDiPalma/Fast-Configure-Server-First-Time?style=plastic)](https://github.com/GiuseppeDiPalma/Fast-Configure-Server-First-Time/blob/main/LICENSE)
 
 # [FCSFT]Fast configure server first time
 
